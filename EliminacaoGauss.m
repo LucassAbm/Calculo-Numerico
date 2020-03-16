@@ -17,7 +17,7 @@ format long
 
 %n = 3;
 %A = [1 5 1; 0 -1 -1; 1 1 7];   %%% A = [0 -1 -1; 1 5 1; 1 1 7];
-%b = [14; -2; 24];              %%% -> Essa ˆm a matriz inicial
+%b = [14; -2; 24];              %%% -> Essa eh a matriz inicial
 %x = [0; 0; 0];
 %U = A; bG = b; L = eye(n);
 
